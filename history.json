@@ -1,0 +1,30 @@
+[
+  {
+    "from": "USD",
+    "to": "RUB",
+    "amount": "500.00",
+    "rate": "75.472900",
+    "result": "37736.45"
+  },
+  {
+    "from": "RUB",
+    "to": "USD",
+    "amount": "500.00",
+    "rate": "0.013250",
+    "result": "6.62"
+  },
+  {
+    "from": "RUB",
+    "to": "USD",
+    "amount": "1.00",
+    "rate": "0.013250",
+    "result": "0.01"
+  },
+  {
+    "from": "USD",
+    "to": "EUR",
+    "amount": "1.00",
+    "rate": "0.854300",
+    "result": "0.85"
+  }
+]
